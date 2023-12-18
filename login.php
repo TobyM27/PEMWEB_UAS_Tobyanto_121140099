@@ -2,6 +2,8 @@
 session_start();
 include "config.php";
 
+$response = array("success" => false, "message" => "");
+
 if (isset($_POST['username']) && isset($_POST['password'])) {
     function validate($data)
     {
