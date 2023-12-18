@@ -180,3 +180,6 @@ berikut merupakan kode-kode yang digunakan untuk melakukan management terhadap c
             });
         });
 ```
+
+### Bagian 5 Penghostingan Website UAS
+link untuk situs Nakama bisa diakses pada berikut ini : https://nakamaonepieceuas.000webhostapp.com/ 
