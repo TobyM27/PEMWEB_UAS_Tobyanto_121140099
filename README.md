@@ -6,7 +6,7 @@
 
 Repository ini digunakan untuk pengumpulan UAS pemrograman web 
 
-###Mohon maaf namun terjadi kesalahan teknis dimana halaman login tidak responsif, oleh karena itu, isi dari read.php dimasukkan ke dalam index.php 
+### Mohon maaf namun terjadi kesalahan teknis dimana halaman login tidak responsif, oleh karena itu, isi dari read.php dimasukkan ke dalam index.php 
 
 ### Bagian 1: Client-side Programming (Bobot: 30%)
 DOM digunakan dalam index.php untuk mengambil username, memeriksa cookie, dan menetapkan cookie seperti kode dibawah ini
