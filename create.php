@@ -11,8 +11,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $sql = "INSERT INTO nakama (karakter_favorit, usia_karakter, devilfruit, asal_krew, nilai_bounty) VALUES ('$karakter_favorit', $usia_karakter, '$devilfruit', '$asal_krew', $nilai_bounty)";
 
     if ($conn->query($sql) === TRUE) {
-        echo "New record created successfully";
         header('Location: read.php');
+        echo "New record created successfully";
     } else {
         echo "Error: " . $sql . "<br>" . $conn->error;
     }
